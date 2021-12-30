@@ -11,7 +11,12 @@ config_version=4
 [application]
 
 config/name="NodeClient"
+run/main_scene="res://World.tscn"
 config/icon="res://icon.png"
+
+[autoload]
+
+Server="*res://Server.gd"
 
 [physics]
 

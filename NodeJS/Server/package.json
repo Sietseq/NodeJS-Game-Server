@@ -9,6 +9,7 @@
   "author": "Sietse de Backer",
   "license": "ISC",
   "dependencies": {
-    "@gd-com/utils": "^4.1.2"
+    "@gd-com/utils": "^4.1.2",
+    "uuid": "^3.3.2"
   }
 }
