@@ -11,4 +11,4 @@ export.cfg
 export_presets.cfg
 
 
-build/
+bin/
